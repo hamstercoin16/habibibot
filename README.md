@@ -1,2 +1,1 @@
-# habibibot
-telegabot
+user = input()
